@@ -1,1 +1,1 @@
-# Computer_Architecture_Lab-MIPS
+# Computer Architecture Lab (MIPS)
