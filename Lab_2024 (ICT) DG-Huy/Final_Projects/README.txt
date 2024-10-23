@@ -1,1 +1,0 @@
-Students should create a folder for each group with the "Group_xx" format with XX as indexing of the groups, then copy the submitted files including reports and source codes into the folder.
